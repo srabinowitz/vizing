@@ -1,2 +1,2 @@
 # vizing
-Edge color undirected graphs with Δ + 1 colors where Δ is the maximum degree of any vertex in a given graph.
+Edge color undirected graphs with Δ + 1 colors where Δ is the maximum degree of any vertex in a given graph. We can use this many colors because of the statement of [Vizing's theorem](https://en.wikipedia.org/wiki/Vizing%27s_theorem). This algorithm runs in exponential time and it is inspired by [this proof of Vizing's theorem](https://homepages.cwi.nl/~lex/files/vizing.pdf).<br><br>Final project for Comp 150: Algorithms & Data Structures II taught by Greg Aloupis at Tufts University, summer 2020. Written in Python 3.
